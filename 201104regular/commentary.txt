@@ -21,7 +21,9 @@
 
    One of my best, inspired by my trips to America's heartland.  Suggestive of prairie scenes, romantic, wild, exciting, and rhythmic!  This one plays by itself -- a great seller here and abroad.  Nice playable melodies and countermelodies.  Fun to conduct and play.
 
-About the Composer
+.. About the Composer
+
+作曲者について
 ------------------
 **Dr. Rex Mitchell** is a Professor of Music Education Emeritus of Clarion University of Pennsylvania.
 He holds BS Music Education, ME Music Education and D.Ed.
@@ -48,7 +50,9 @@ His music is published in five houses in America and an international publisher 
 純粋に音楽的な考えによって表現、発展していくことがこの作品の特徴です。
 曲の解釈(または音楽以外の意味)は聴衆の想像力に任されています。
 
-Performance Suggestions
+.. Performance Suggestions
+
+演奏についての提案
 -----------------------
 .. Much of the principal melodic material utilizes elements of the Dorian scale:
 
@@ -88,9 +92,13 @@ Finnaly, the director should strive to attain balance among various sections of 
 :原題: Sinfonia Festiva
 :作曲: A.ラニング(Arne Running)
 
-about the composition
+.. about the composition
+
+曲の構成について
 ---------------------
-SINFONIA FESTIVA is in three movements.
+.. SINFONIA FESTIVA is in three movements.
+
+シンフォニア・フェスティーバは3つの楽章で構成されています。
 First is a Fanfare which opens with powerful proclamations by brasses and drums.
 The woodwinds interrupt with an allegro passage of whirling fury and brilliance.
 A climax is reached with all instruments vigorously hammering a major triad which gradually grows more violently dissonant and heaby.
@@ -108,27 +116,35 @@ A lyrically lilting, then vigorous middle section leads to a recapitulation of b
 The work concludes with a joyful and exuberant coda in which the bass line of the march transforms itself into the well-known "rock and roll" harmonic progression of the 1950s.
 The result is a boisterous and rollicking finale.
 
-rehearsal and performance suggestions
+.. rehearsal and performance suggestions
+
+リハーサルと演奏についての提案
 -------------------------------------
 
-Fanfare
-~~~~~~~
-In mm.6 and 10 the trumpets must not rush the 23nd notes.
+.. Fanfare
+
+ファンファーレ
+~~~~~~~~~~~~~~
+In mm.6 and 10 the trumpets must not rush the 32nd notes.
 These notes should be executed with their full melodic and rhythmic value.
 
 In the Maestoso sections, the 16th notes written for the brasses should also be executed without rushing.
 The appropriate dramatic effect will be best achieved with a boldly accented, yet broad articulation.
 
-Aria
-~~~~
+.. Aria
+
+アリア
+~~~~~~
 In m.9 the instruments must be balanced and blended so that the result is a smooth and continuous descending scale.
 The crescendo from m.9  to m.10 is also important.
 
 In mm.11-21, the decorated woodwind melody should not sound hurried.
 This can be achieved by giving full, expressive melodic value to the 16th and 32nd note melismas.
 
-Toccata
-~~~~~~~
+.. Toccata
+
+トッカータ
+~~~~~~~~~~
 The Toccata is a movement of driving rhythmic and festive abandon.
 Except for the lyrical section from mm.63-87, all articulations and accents should be played with zest, bite and vigor.
 
@@ -143,7 +159,9 @@ The tempo of the final three measures must be broad and deliberate so that the e
 
 Throughout all of the meter changes in the coda, the value of the eighth note remains constant.
 
-about the composer
+.. about the composer
+
+作曲者について
 ------------------
 Born in 1943, Arne Running is a native of Moorhead, Minnesota, attended elementary and secondary school at the campus school of Moorhead State Teachers College and began the study of clarinet at age eleven.
 Six years later he was the winner of a state-wide Young Musical Artists competition sponsored by the Minnesota Symphony Orchestra and performed the Mozart Clarinet Concerto with the orchestra.
