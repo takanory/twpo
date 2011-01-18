@@ -9,7 +9,57 @@
 ==========
 :原題: Song of the Prairie
 :作曲: R.ミッチェル(Rex Mitchell)
-:楽譜: http://www.music8.com/products/products_detail.php?IMPORT__and__UN55>
+:楽譜: http://www.music8.com/products/products_detail.php?IMPORT__and__UN55
+
+参考
+----
+ `本人のサイトより <http://www.digitaldrawers.com/rexmitchell/Song%20of%20the%20Prairie.htm>`_
+
+.. note::
+
+   One of my best, inspired by my trips to America's heartland.  Suggestive of prairie scenes, romantic, wild, exciting, and rhythmic!  This one plays by itself -- a great seller here and abroad.  Nice playable melodies and countermelodies.  Fun to conduct and play.
+
+About the Composer
+------------------
+**Dr. Rex Mitchell** is a Professor of Music Education Emeritus of Clarion University of Pennsylvania.
+He holds BS Music Education, ME Music Education and D.Ed.
+Music Education degrees from Muskingum College, Kent State University and Penn State University respectively.
+For fourteen yeas, he taught insturumental music and directed bands in Ohio public schools in the communities of Parma, Stow and Canton.
+In 1966 he accepted a position at Clarion University, serving as woodwind specialist and teacher of Music Education, Composition, Conducting, Orchestration and courses in the track of Jazz studies.
+He also founded the University Lab Jazz Band, leading th eensemble in dozens of tours in Pennsylvania, performing in schools, colleges and communities.
+
+Throughout his professional years and to this day, Dr. Mitchell has arranged and composed music for bands, orchestras, string orchestras, jazz ensembles and SATB chorus.
+Most of his some fifty published works were commissioned by schools, colleges and community ensenmbles.
+His music is published in five houses in America and an international publisher in Tokyo.
+
+Program Notes
+-------------
+**Song of the Prairie** is a program selection in a single movement.
+Much of the melodic material is based upon elements of the Dorian scale.
+The work features the presentation and development of ideas which are purely musical.
+Interpretation (or extra-musical meaning) is left to the imagination of the listener.
+
+Performance Suggestions
+-----------------------
+Muych of the principal melodic material utilizes elements of the Dorian scale:
+
+フラっと3つ(ドリア旋法の図 ドレミファソラ(ナチュラル)シ)
+
+The motive (ドミシソーの図) is a prominent element which appears frequently (sometimes with slight alterations) throughout the work, and the phrase
+
+(ドミシソーミファソラファソーの図)
+
+forms the basis for much of the melodic material.
+This phrase is vigen a new treatment at measure 51 and throughout a large portion of the Allegro section.
+
+Material at measure 25 (melody in the high woodwinds, cornets and trumpets; countermelody by saxophones and horns) represents a release from the principal theme.
+This appears also in measures 71 and 129.
+Elements of the principal and secondary melodies are contained in the final eight measures.
+
+Best results will be achieved if the director observes suggested tempo indications.
+Attention should also be paid to dynamics, articulations, and phrasing.
+Accented notes in the Allegro section will be most effective if they are separeted slightly.
+Finnaly, the director should strive to attain balance among various sections of the band in tuttu passages.
 
 シンフォニア・フェスティーバ
 ============================
