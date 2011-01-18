@@ -54,13 +54,16 @@ Performance Suggestions
 
 主題の多くはドリア旋法の要素を使用しています。
 
-フラット3つ(ドリア旋法の図 ドレミファソラ(ナチュラル)シ)
+.. image:: prairie-2.png
 
-The motive (ドミシソーの図) is a prominent element which appears frequently (sometimes with slight alterations) throughout the work, and the phrase
+.. |prairie| image:: prairie-1.png
+   :align: middle
+
+The motive |prairie| is a prominent element which appears frequently (sometimes with slight alterations) throughout the work, and the phrase
 
 動機(図)は重要な要素で、
 
-(ドミシソーミファソラファソーの図)
+.. image:: prairie-3.png
 
 forms the basis for much of the melodic material.
 This phrase is vigen a new treatment at measure 51 and throughout a large portion of the Allegro section.
