@@ -2,6 +2,8 @@
 曲目解説
 ========
 
+.. contents:: 目次
+
 2011年度全日本吹奏楽コンクール課題曲より
 ========================================
 
@@ -82,6 +84,46 @@ Finnaly, the director should strive to attain balance among various sections of 
 ============================
 :原題: Sinfonia Festiva
 :作曲: A.ラニング(Arne Running)
+
+about the composition
+---------------------
+SINFONIA FESTIVA is in three movements.
+First is a Fanfare which opens with powerful proclamations by brasses and drums.
+The woodwinds interrupt with an allegro passage of whirling fury and brilliance.
+A climax is reached with all instruments vigorously hammering a major triad which gradually grows more violently dissonant and heaby.
+A powerful drum roll and a tutti unison statement of the opening theme releases the tension and the movement concludes triumphantly.
+
+The second movement is an Aira.
+The warm and lyrical melody is gently played by the low woodwinds.
+The melody is then stated forte by the upper woodwinds, who augment their version with expressive melismas.
+A tendor solo for flute provides a gentle closing.
+
+The final movement is a brilliant Toccata.
+The movement begins with the woodwinds dancing in rhythmic fury.
+Brasses and percussion follow with a strutting military march.
+A lyrically lilting, then vigorous middle section leads to a recapitulation of both the woodwind dance and the military march.
+The work concludes with a joyful and exuberant coda in which the bass line of the march transforms itself into the well-known "rock and roll" harmonic progression of the 1950s.
+The result is a boisterous and rollicking finale.
+
+rehearsal and performance suggestions
+-------------------------------------
+
+Fanfare
+~~~~~~~
+In mm. 6 and 10 the trumpets must not rush the 23nd notes.
+These notes should be executed with their full melodic and rhythmic value.
+
+In the Maestoso sections, the 16th notes written for the brasses should also be executed without rushing.
+The appropriate dramatic effect will be best achieved with a boldly accented, yet broad articulation.
+
+Aria
+~~~~
+
+Toccata
+~~~~~~~
+
+about the composer
+------------------
 
 歌劇「ローエングリン」よりエルザの大聖堂への行列
 =================================================
