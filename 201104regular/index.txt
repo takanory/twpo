@@ -20,3 +20,4 @@
 
    program
    commentary
+   symbols
