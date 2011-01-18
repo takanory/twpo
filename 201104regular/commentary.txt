@@ -32,29 +32,46 @@ Throughout his professional years and to this day, Dr. Mitchell has arranged and
 Most of his some fifty published works were commissioned by schools, colleges and community ensenmbles.
 His music is published in five houses in America and an international publisher in Tokyo.
 
-Program Notes
--------------
-**Song of the Prairie** is a program selection in a single movement.
-Much of the melodic material is based upon elements of the Dorian scale.
-The work features the presentation and development of ideas which are purely musical.
-Interpretation (or extra-musical meaning) is left to the imagination of the listener.
+.. Program Notes
+
+プログラムの解説
+----------------
+.. **Song of the Prairie** is a program selection in a single movement.
+   Much of the melodic material is based upon elements of the Dorian scale.
+   The work features the presentation and development of ideas which are purely musical.
+   Interpretation (or extra-musical meaning) is left to the imagination of the listener.
+
+**大草原の歌** は単一楽章の曲です。
+たくさんの旋律のパーツはドリア旋法に基づいています。
+純粋に音楽的な考えによって表現、発展していくことがこの作品の特徴です。
+曲の解釈(または音楽以外の意味)は聴衆の想像力に任されています。
 
 Performance Suggestions
 -----------------------
-Muych of the principal melodic material utilizes elements of the Dorian scale:
+.. Much of the principal melodic material utilizes elements of the Dorian scale:
 
-フラっと3つ(ドリア旋法の図 ドレミファソラ(ナチュラル)シ)
+主題の多くはドリア旋法の要素を使用しています。
+
+フラット3つ(ドリア旋法の図 ドレミファソラ(ナチュラル)シ)
 
 The motive (ドミシソーの図) is a prominent element which appears frequently (sometimes with slight alterations) throughout the work, and the phrase
+
+動機(図)は重要な要素で、
 
 (ドミシソーミファソラファソーの図)
 
 forms the basis for much of the melodic material.
 This phrase is vigen a new treatment at measure 51 and throughout a large portion of the Allegro section.
 
-Material at measure 25 (melody in the high woodwinds, cornets and trumpets; countermelody by saxophones and horns) represents a release from the principal theme.
-This appears also in measures 71 and 129.
-Elements of the principal and secondary melodies are contained in the final eight measures.
+.. Material at measure 25 (melody in the high woodwinds, cornets and trumpets; countermelody by saxophones and horns) represents a release from the principal theme.
+
+25小節目の要素(木管高音、コルネット、トランペットによる旋律とサックス、ホルによる対旋律)は主題からの開放を意味しています。
+
+.. This appears also in measures 71 and 129.
+   Elements of the principal and secondary melodies are contained in the final eight measures.
+
+この要素は71小節目と129小節目にも現れます。
+第1と第2のメロディーの要素は最後の8小節にも含まれています。
 
 Best results will be achieved if the director observes suggested tempo indications.
 Attention should also be paid to dynamics, articulations, and phrasing.
