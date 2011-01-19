@@ -10,7 +10,7 @@
 大草原の歌
 ==========
 :原題: Song of the Prairie
-:作曲: R.ミッチェル(Rex Mitchell)
+:作曲: レックス・ミッチェル(Rex Mitchell)
 :楽譜: http://www.music8.com/products/products_detail.php?IMPORT__and__UN55
 
 参考
@@ -46,7 +46,7 @@ His music is published in five houses in America and an international publisher 
    Interpretation (or extra-musical meaning) is left to the imagination of the listener.
 
 **大草原の歌** は単一楽章の曲です。
-たくさんの旋律のパーツはドリア旋法に基づいています。
+多数の旋律のパーツはドリア旋法に基づいています。
 純粋に音楽的な考えによって表現、発展していくことがこの作品の特徴です。
 曲の解釈(または音楽以外の意味)は聴衆の想像力に任されています。
 
@@ -58,39 +58,47 @@ His music is published in five houses in America and an international publisher 
 
 主題の多くはドリア旋法の要素を使用しています。
 
-.. image:: prairie-2.png
+.. figure:: prairie-2.png
 
-.. |prairie| image:: prairie-1.png
-   :align: middle
+.. The motive |prairie| is a prominent element which appears frequently (sometimes with slight alterations) throughout the work, and the phrase
 
-The motive |prairie| is a prominent element which appears frequently (sometimes with slight alterations) throughout the work, and the phrase
+以下の動機は曲の中でしばしば(時々はわずかに変更されて)現れる重要な要素です。
 
-動機(図)は重要な要素で、
+.. image:: prairie-1.png
+
+.. forms the basis for much of the melodic material.
+   This phrase is begin a new treatment at measure 51 and throughout a large portion of the Allegro section.
+
+そして、以下のフレーズは旋律的な材料の基礎となります。
 
 .. image:: prairie-3.png
 
-forms the basis for much of the melodic material.
-This phrase is vigen a new treatment at measure 51 and throughout a large portion of the Allegro section.
+このフレーズは51小節目から新しい形式で開始され、Allegroの大部分を通して演奏されます。
 
 .. Material at measure 25 (melody in the high woodwinds, cornets and trumpets; countermelody by saxophones and horns) represents a release from the principal theme.
 
-25小節目の要素(木管高音、コルネット、トランペットによる旋律とサックス、ホルによる対旋律)は主題からの開放を意味しています。
+また、25小節目の要素(木管高音、コルネット、トランペットによる旋律とサックス、ホルンによる対旋律)は主題からの開放を意味しています。
 
 .. This appears also in measures 71 and 129.
    Elements of the principal and secondary melodies are contained in the final eight measures.
 
-この要素は71小節目と129小節目にも現れます。
+この要素は71小節目と129小節目に再度現れます。
 第1と第2のメロディーの要素は最後の8小節にも含まれています。
 
-Best results will be achieved if the director observes suggested tempo indications.
-Attention should also be paid to dynamics, articulations, and phrasing.
-Accented notes in the Allegro section will be most effective if they are separeted slightly.
-Finnaly, the director should strive to attain balance among various sections of the band in tuttu passages.
+.. Best results will be achieved if the director observes suggested tempo indications.
+   Attention should also be paid to dynamics, articulations, and phrasing.
+   Accented notes in the Allegro section will be most effective if they are separated slightly.
+   Finally, the director should strive to attain balance among various sections of the band in tutti passages.
+
+指導者が提案したテンポを守ることによって、最高の演奏をすることができます。
+ダイナミクス(強弱)、アーティキュレーション(発音)とフレージング(歌い方)にも注意をはらう必要があります。
+Allegro部のアクセントが付いている音に間隔をわずかに付けると、非常に効果的になります。
+最後に、指導者はバンド全体でのtuttiで演奏する部分で、セクション間でのバランスをとるように努める必要があります。
 
 シンフォニア・フェスティーバ
 ============================
 :原題: Sinfonia Festiva
-:作曲: A.ラニング(Arne Running)
+:作曲: アーン・ラニング(Arne Running)
 
 .. about the composition
 
@@ -179,8 +187,8 @@ Both works are available from Shawnee Press.
 
 歌劇「ローエングリン」よりエルザの大聖堂への行列
 =================================================
-:作曲: R.ワーグナー(Richard Wagner)
-:編曲: L.カイリエ(Lucien Cailliet)
+:作曲: リヒャルト・ワーグナー(Richard Wagner)
+:編曲: ルシアン・カイリエ(Lucien Cailliet)
 :楽譜: http://www.music8.com/products/products_detail.php?IMPORT__and__UC24
 
 春に
@@ -191,8 +199,8 @@ Both works are available from Shawnee Press.
 プライベート・ライアン〜戦没者への賛歌
 ======================================
 :原題: Hymn to the Fallen from "Saving Private Ryan"
-:作曲: J.ウィリアムズ(John Williams)
-:編曲: P.スパーク(Philip Sparke)
+:作曲: ジョン・ウィリアムズ(John Williams)
+:編曲: フィリップ・スパーク(Philip Sparke)
 :楽譜: <http://item.rakuten.co.jp/bandpower/toset-0315/
 
 しあわせ運べるように
@@ -208,6 +216,6 @@ Both works are available from Shawnee Press.
 
 We Are The World
 ================
-:作曲: Michael Jackson, Lionel Richie
+:作曲: マイケル・ジャクソン(Michael Jackson)、ライオネル・リッチー(Lionel Richie)
 :編曲: 郷間 幹男
 :楽譜: http://brass.winds-score.com/?pid=16255123
