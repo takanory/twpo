@@ -53,7 +53,7 @@ His music is published in five houses in America and an international publisher 
 .. Performance Suggestions
 
 演奏についての提案
------------------------
+------------------
 .. Much of the principal melodic material utilizes elements of the Dorian scale:
 
 主題の多くはドリア旋法の要素を使用しています。
@@ -105,24 +105,40 @@ Allegro部のアクセントが付いている音に間隔をわずかに付け�
 曲の構成について
 ---------------------
 .. SINFONIA FESTIVA is in three movements.
+   First is a Fanfare which opens with powerful proclamations by brasses and drums.
+   The woodwinds interrupt with an allegro passage of whirling fury and brilliance.
+   A climax is reached with all instruments vigorously hammering a major triad which gradually grows more violently dissonant and heavy.
+   A powerful drum roll and a tutti unison statement of the opening theme releases the tension and the movement concludes triumphantly.
 
 シンフォニア・フェスティーバは3つの楽章で構成されています。
-First is a Fanfare which opens with powerful proclamations by brasses and drums.
-The woodwinds interrupt with an allegro passage of whirling fury and brilliance.
-A climax is reached with all instruments vigorously hammering a major triad which gradually grows more violently dissonant and heaby.
-A powerful drum roll and a tutti unison statement of the opening theme releases the tension and the movement concludes triumphantly.
+第1楽章の「ファンファーレ」は金管と打楽器による力強い宣言で始まります。
+木管は激しさと輝きがめまぐるしく入れ替わるAllegroのパッセージで宣言を遮ります。
+全ての楽器によって力強く繰り返される「長三和音」が、徐々により大きく、より激しく、不協和音となり重くなって、クライマックスに達します。
+力強いドラムロールと最初のテーマを全体でのユニゾン演奏はクライマックスの緊張を緩和し、この楽章は勝利の喜びを感じて終了します。
 
-The second movement is an Aira.
-The warm and lyrical melody is gently played by the low woodwinds.
-The melody is then stated forte by the upper woodwinds, who augment their version with expressive melismas.
-A tendor solo for flute provides a gentle closing.
+.. The second movement is an Aira.
+   The warm and lyrical melody is gently played by the low woodwinds.
+   The melody is then stated forte by the upper woodwinds, who augment their version with expressive melismas.
+   A tender solo for flute provides a gentle closing.
 
-The final movement is a brilliant Toccata.
-The movement begins with the woodwinds dancing in rhythmic fury.
-Brasses and percussion follow with a strutting military march.
+第2楽章は「アリア」です。
+暖かく叙情的なメロディは低音木管により穏やかに演奏されます。
+そして、このメロディは高音の木管楽器によりフォルテで演奏され、表情の豊な装飾的メロディー(melisma)を加えていきます。
+フルートによる柔らかいソロによって曲は穏やかに終了します。
+
+.. The final movement is a brilliant Toccata.
+   The movement begins with the woodwinds dancing in rhythmic fury.
+   Brasses and percussion follow with a strutting military march.
+   A lyrically lilting, then vigorous middle section leads to a recapitulation of both the woodwind dance and the military march.
+   The work concludes with a joyful and exuberant coda in which the bass line of the march transforms itself into the well-known "rock and roll" harmonic progression of the 1950s.
+   The result is a boisterous and rollicking finale.
+
+最終楽章は輝かしい「トッカータ」です。
+この楽章は激しいリズミカルな木管楽器の舞踊によって始まります。
+金管楽器と打楽器は気取った軍隊風の行進曲で木管に続きます。
 A lyrically lilting, then vigorous middle section leads to a recapitulation of both the woodwind dance and the military march.
 The work concludes with a joyful and exuberant coda in which the bass line of the march transforms itself into the well-known "rock and roll" harmonic progression of the 1950s.
-The result is a boisterous and rollicking finale.
+最後は騒々しく陽気に騒いでフィナーレを迎えます。
 
 .. rehearsal and performance suggestions
 
