@@ -136,8 +136,8 @@ Allegro部のアクセントが付いている音に間隔をわずかに付け�
 最終楽章は輝かしい「トッカータ」です。
 この楽章は激しいリズミカルな木管楽器の舞踊によって始まります。
 金管楽器と打楽器は気取った軍隊風の行進曲で木管に続きます。
-A lyrically lilting, then vigorous middle section leads to a recapitulation of both the woodwind dance and the military march.
-The work concludes with a joyful and exuberant coda in which the bass line of the march transforms itself into the well-known "rock and roll" harmonic progression of the 1950s.
+叙情的で軽快な、活気のある中間部は木管楽器のダンスと軍隊風の行進曲を引用して進行します。
+この作品は、マーチのベースラインが有名な1950年代の「ロックンロール」のコード進行に変わり、楽しくて活き活きとしたコーダで終了します。
 最後は騒々しく陽気に騒いでフィナーレを迎えます。
 
 .. rehearsal and performance suggestions
@@ -149,39 +149,65 @@ The work concludes with a joyful and exuberant coda in which the bass line of th
 
 ファンファーレ
 ~~~~~~~~~~~~~~
-In mm.6 and 10 the trumpets must not rush the 32nd notes.
-These notes should be executed with their full melodic and rhythmic value.
+.. In mm.6 and 10 the trumpets must not rush the 32nd notes.
+   These notes should be executed with their full melodic and rhythmic value.
 
-In the Maestoso sections, the 16th notes written for the brasses should also be executed without rushing.
-The appropriate dramatic effect will be best achieved with a boldly accented, yet broad articulation.
+6小節目と10小節目にあるトランペットの32分音符は決して急いで演奏してはいけない。
+この32分音符は完全に旋律的でリズミカルな価値を持って演奏しなければならない。
+
+.. In the Maestoso sections, the 16th notes written for the brasses should also be executed without rushing.
+   The appropriate dramatic effect will be best achieved with a boldly accented, yet broad articulation.
+
+Maestosoにある金管の16分音符も走らないように気をつけて演奏してください。
+大胆なアクセントと幅の広い発音(アーティキュレーション)によって、演奏に劇的な効果が生まれます。
 
 .. Aria
 
 アリア
 ~~~~~~
-In m.9 the instruments must be balanced and blended so that the result is a smooth and continuous descending scale.
-The crescendo from m.9  to m.10 is also important.
+.. In m.9 the instruments must be balanced and blended so that the result is a smooth and continuous descending scale.
+   The crescendo from m.9  to m.10 is also important.
 
-In mm.11-21, the decorated woodwind melody should not sound hurried.
-This can be achieved by giving full, expressive melodic value to the 16th and 32nd note melismas.
+9小節目では、連続するなめらかな下行形のスケールとなるように、各楽器はバランスを保って音をブレンドする必要があります。
+9から10小節目に書けてのクレッシェンドは非常に重要です。
+
+.. In mm.11-21, the decorated woodwind melody should not sound hurried.
+   This can be achieved by giving full, expressive melodic value to the 16th and 32nd note melismas.
+
+11から小節目の木管による装飾的な旋律は、音を急がないように。
+16分音符と32分音符による装飾的なメロディー(melisma)によって、表情豊かで旋律的な価値を十分に与える必要があります。
 
 .. Toccata
 
 トッカータ
 ~~~~~~~~~~
-The Toccata is a movement of driving rhythmic and festive abandon.
-Except for the lyrical section from mm.63-87, all articulations and accents should be played with zest, bite and vigor.
+.. The Toccata is a movement of driving rhythmic and festive abandon.
+   Except for the lyrical section from mm.63-87, all articulations and accents should be played with zest, bite and vigor.
 
-THe code, beginning at m.166, is based on an eight-bar "rock and roll" bass line.
-This eight-bar phrase is played a total of five times.
-Each new repetition of the phrase should give the effect of mounting excitement, as melodies from earlier in the movement are gradually added.
-At mm.166, 174, 182, 190 and 198 I have used the words soli and solo to designate which instruments should be highlighted for the listener.
-Throughtout this section the percussion is added gradually and should give a culminative drive to the entire coda.
+トッカータはリズミカルな運動とお祭り奔放さの楽章です。
+63から87小節目の叙情的な箇所を除き、全てのアーティキュレーションとアクセントは、熱意と刺激と活気を持って演奏される必要があります。
 
-Check carefully the metronome marking at m.215.
-The tempo of the final three measures must be broad and deliberate so that the entry of each choir is powerful and the entire cadence has Bach-like gradeur.
+.. The coda, beginning at m.166, is based on an eight-bar "rock and roll" bass line.
+   This eight-bar phrase is played a total of five times.
+   Each new repetition of the phrase should give the effect of mounting excitement, as melodies from earlier in the movement are gradually added.
+   At mm.166, 174, 182, 190 and 198 I have used the words soli and solo to designate which instruments should be highlighted for the listener.
+   Throughout this section the percussion is added gradually and should give a culminative drive to the entire coda.
 
-Throughout all of the meter changes in the coda, the value of the eighth note remains constant.
+166小節目から始まるコーダは、8小節単位の「ロックン・ロール」のベースラインに基づいています。
+この8小節のフレーズは全部で5回演奏されます。
+それぞれのフレーズの繰り返し毎に、楽章の前半に演奏されたメロディーが徐々に加えられ、興奮をより高めていきます。
+166、174、182、190、198小節目にsoliまたはsoloと支持されている楽器は、聴衆に対してよく聴こえるようにする必要があります。
+この楽章を通じて打楽器は徐々に加えられ、コーダでドライブの最高点となる必要があります。
+
+.. Check carefully the metronome marking at m.215.
+   The tempo of the final three measures must be broad and deliberate so that the entry of each choir is powerful and the entire cadence has Bach-like graduer.
+
+215小節目はメトロノームで慎重にチェックして下さい。
+最後の3小節は幅広くゆったりとしたテンポで、それぞれの拍で入ってくるセクションは力強くバッハのgraduer?のような韻律で演奏してください。
+
+.. Throughout all of the meter changes in the coda, the value of the eighth note remains constant.
+
+コーダでの拍子変化を通して、八分音符の音価は一定です。
 
 .. about the composer
 
