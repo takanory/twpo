@@ -233,6 +233,33 @@ Both works are available from Shawnee Press.
 :編曲: ルシアン・カイリエ(Lucien Cailliet)
 :楽譜: http://www.music8.com/products/products_detail.php?IMPORT__and__UC24
 
+歌詞
+----
+
+.. list-table::
+   :header-rows: 1
+
+   * - ドイツ語
+     - 日本語訳
+   * - | Gesegnet soll sie schreiten,
+       | die lang in Demut litt!
+     - | 永くつつましく耐えしのんできた
+       | 姫に神の祝福があるように!
+   * - | Gott mo"ge sie geleiten,
+       | Gott hu"te ihren Schritt!
+     - | 神が姫の歩みを守り、
+       | 導いて行くように!
+   * - | Sie naht, die Engelgleiche,
+       | von keuscher Glut entbrannt!
+     - | エルザが近づいてくる、
+       | 天使のようなエルザが!
+   * - | Heil dir, o Tugendreiche!
+       | Heil dir, Elsa von Brabant!
+       | Gesegnet sollst du schreiten!
+     - | 純潔な情熱に光り輝いて!
+       | 貞淑な姫、万歳!エルザ・フォン・ブラバント万歳!
+       | 姫に神の祝福があるように!
+
 春に
 ====
 :作詞: 谷川 俊太郎
