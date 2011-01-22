@@ -49,18 +49,18 @@
 
 .. About the Composer
 
-作曲者について
-------------------
-**Dr. Rex Mitchell** is a Professor of Music Education Emeritus of Clarion University of Pennsylvania.
-He holds BS Music Education, ME Music Education and D.Ed.
-Music Education degrees from Muskingum College, Kent State University and Penn State University respectively.
-For fourteen yeas, he taught insturumental music and directed bands in Ohio public schools in the communities of Parma, Stow and Canton.
-In 1966 he accepted a position at Clarion University, serving as woodwind specialist and teacher of Music Education, Composition, Conducting, Orchestration and courses in the track of Jazz studies.
-He also founded the University Lab Jazz Band, leading th eensemble in dozens of tours in Pennsylvania, performing in schools, colleges and communities.
+.. 作曲者について
+   ------------------
+   **Dr. Rex Mitchell** is a Professor of Music Education Emeritus of Clarion University of Pennsylvania.
+   He holds BS Music Education, ME Music Education and D.Ed.
+   Music Education degrees from Muskingum College, Kent State University and Penn State University respectively.
+   For fourteen yeas, he taught insturumental music and directed bands in Ohio public schools in the communities of Parma, Stow and Canton.
+   In 1966 he accepted a position at Clarion University, serving as woodwind specialist and teacher of Music Education, Composition, Conducting, Orchestration and courses in the track of Jazz studies.
+   He also founded the University Lab Jazz Band, leading th eensemble in dozens of tours in Pennsylvania, performing in schools, colleges and communities.
 
-Throughout his professional years and to this day, Dr. Mitchell has arranged and composed music for bands, orchestras, string orchestras, jazz ensembles and SATB chorus.
-Most of his some fifty published works were commissioned by schools, colleges and community ensenmbles.
-His music is published in five houses in America and an international publisher in Tokyo.
+   Throughout his professional years and to this day, Dr. Mitchell has arranged and composed music for bands, orchestras, string orchestras, jazz ensembles and SATB chorus.
+   Most of his some fifty published works were commissioned by schools, colleges and community ensenmbles.
+   His music is published in five houses in America and an international publisher in Tokyo.
 
 .. Program Notes
 
@@ -237,21 +237,21 @@ Maestosoにある金管の16分音符も走らないように気をつけて演�
 
 .. about the composer
 
-作曲者について
-------------------
-Born in 1943, Arne Running is a native of Moorhead, Minnesota, attended elementary and secondary school at the campus school of Moorhead State Teachers College and began the study of clarinet at age eleven.
-Six years later he was the winner of a state-wide Young Musical Artists competition sponsored by the Minnesota Symphony Orchestra and performed the Mozart Clarinet Concerto with the orchestra.
+.. 作曲者について
+   ------------------
+   Born in 1943, Arne Running is a native of Moorhead, Minnesota, attended elementary and secondary school at the campus school of Moorhead State Teachers College and began the study of clarinet at age eleven.
+   Six years later he was the winner of a state-wide Young Musical Artists competition sponsored by the Minnesota Symphony Orchestra and performed the Mozart Clarinet Concerto with the orchestra.
 
-Running received his BM degree with highers honors in clarinet from the New England Conservatory of Music in Boston, Massachusetts, and his MM degree from Temple University in Philadelphia, Pennsylvania.
-Following graduation he was principal clarinetist with the Pennsylvania Ballet Company orchestra.
-Since 1974 he has been an active free-lance musician in Philadelphia and has also performed as a member of the Philadelphia Orchestra.
-Since 1968 Running has been principal clarinet instructor at the Jenkintown(PA) Music School.
-In 1979 he was appointed conductor of the school's chamber orchestra.
+   Running received his BM degree with highers honors in clarinet from the New England Conservatory of Music in Boston, Massachusetts, and his MM degree from Temple University in Philadelphia, Pennsylvania.
+   Following graduation he was principal clarinetist with the Pennsylvania Ballet Company orchestra.
+   Since 1974 he has been an active free-lance musician in Philadelphia and has also performed as a member of the Philadelphia Orchestra.
+   Since 1968 Running has been principal clarinet instructor at the Jenkintown(PA) Music School.
+   In 1979 he was appointed conductor of the school's chamber orchestra.
 
-Although Running composed several works for small woodwind groups during his school yeas, it was not until the summer of 1976 that he tried his hand at composing once again.
-The result was Chorale and Capriccio for Band.
-This was followed in 1978 by Aria and Allegro for Brass Trio.
-Both works are available from Shawnee Press.
+   Although Running composed several works for small woodwind groups during his school yeas, it was not until the summer of 1976 that he tried his hand at composing once again.
+   The result was Chorale and Capriccio for Band.
+   This was followed in 1978 by Aria and Allegro for Brass Trio.
+   Both works are available from Shawnee Press.
 
 歌劇「ローエングリン」よりエルザの大聖堂への行列
 =================================================
