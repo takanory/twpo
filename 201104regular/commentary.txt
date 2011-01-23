@@ -258,21 +258,35 @@ Maestosoにある金管の16分音符も走らないように気をつけて演�
 
 .. about the composer
 
-.. 作曲者について
-   ------------------
-   Born in 1943, Arne Running is a native of Moorhead, Minnesota, attended elementary and secondary school at the campus school of Moorhead State Teachers College and began the study of clarinet at age eleven.
+作曲者について
+--------------
+.. Born in 1943, Arne Running is a native of Moorhead, Minnesota, attended elementary and secondary school at the campus school of Moorhead State Teachers College and began the study of clarinet at age eleven.
    Six years later he was the winner of a state-wide Young Musical Artists competition sponsored by the Minnesota Symphony Orchestra and performed the Mozart Clarinet Concerto with the orchestra.
 
-   Running received his BM degree with highers honors in clarinet from the New England Conservatory of Music in Boston, Massachusetts, and his MM degree from Temple University in Philadelphia, Pennsylvania.
+アーン・ラニングは1943年にミネソタ州のムーアヘッドに生まれ、ムーアヘッドの小中学校に通い11歳の時にクラリネットの演奏を始めました。
+6年後、ミネソタ交響楽団が主催する州の若手音楽家のコンテストに優勝し、同楽団とモーツァルトのクラリネット協奏曲を演奏しました。
+
+.. Running received his BM degree with highers honors in clarinet from the New England Conservatory of Music in Boston, Massachusetts, and his MM degree from Temple University in Philadelphia, Pennsylvania.
    Following graduation he was principal clarinetist with the Pennsylvania Ballet Company orchestra.
    Since 1974 he has been an active free-lance musician in Philadelphia and has also performed as a member of the Philadelphia Orchestra.
    Since 1968 Running has been principal clarinet instructor at the Jenkintown(PA) Music School.
    In 1979 he was appointed conductor of the school's chamber orchestra.
 
-   Although Running composed several works for small woodwind groups during his school yeas, it was not until the summer of 1976 that he tried his hand at composing once again.
+ラニングはマサチューセッツ州ボストンのニューイングランド音楽院でクラリネットの学士を取得し、ペンシルバニア州フィラデルフィアのテンプル大学で修士を取得しました。
+卒業後はペンシルバニアバレエカンパニーのオーケストラで主席クラリネット奏者を務めました。
+1974年からフィラデルフィアでフリーの音楽家となり、フィラデルフィア管弦楽団のメンバーとしても演奏しました。
+1968年からジェンキントン音楽学校でクラリネットの教師を務めました。
+1979年には学校の室内管弦楽団の指揮を任されました。
+
+.. Although Running composed several works for small woodwind groups during his school yeas, it was not until the summer of 1976 that he tried his hand at composing once again.
    The result was Chorale and Capriccio for Band.
    This was followed in 1978 by Aria and Allegro for Brass Trio.
    Both works are available from Shawnee Press.
+
+ラニングが学校で務めている間に小さな木管グループのためのいくつかの作品を作曲しましたが、自分の手で指揮をすることは1976年の夏までありませんでした。
+その後「バンドのためのコラールとカプリチオ」が作曲されました。
+この作品に続き1978年には「金管三重奏のためのアリアとアレグロ」が作曲されました。
+この2つの作品はShawnee Pressで出版されています。
 
 歌劇「ローエングリン」よりエルザの大聖堂への行列
 =================================================
