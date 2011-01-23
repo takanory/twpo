@@ -59,18 +59,29 @@
 
 .. About the Composer
 
-.. 作曲者について
-   ------------------
-   **Dr. Rex Mitchell** is a Professor of Music Education Emeritus of Clarion University of Pennsylvania.
+作曲者について
+--------------
+.. **Dr. Rex Mitchell** is a Professor of Music Education Emeritus of Clarion University of Pennsylvania.
    He holds BS Music Education, ME Music Education and D.Ed.
    Music Education degrees from Muskingum College, Kent State University and Penn State University respectively.
-   For fourteen yeas, he taught insturumental music and directed bands in Ohio public schools in the communities of Parma, Stow and Canton.
+   For fourteen years, he taught instrumental music and directed bands in Ohio public schools in the communities of Parma, Stow and Canton.
    In 1966 he accepted a position at Clarion University, serving as woodwind specialist and teacher of Music Education, Composition, Conducting, Orchestration and courses in the track of Jazz studies.
-   He also founded the University Lab Jazz Band, leading th eensemble in dozens of tours in Pennsylvania, performing in schools, colleges and communities.
+   He also founded the University Lab Jazz Band, leading the ensemble in dozens of tours in Pennsylvania, performing in schools, colleges and communities.
 
-   Throughout his professional years and to this day, Dr. Mitchell has arranged and composed music for bands, orchestras, string orchestras, jazz ensembles and SATB chorus.
-   Most of his some fifty published works were commissioned by schools, colleges and community ensenmbles.
+**レックス・ミッチェル博士** は、ペンシルバニア州クラリオン大学の音楽教育の名誉教授です。
+彼は音楽教育の学士、修士と職業学位の博士を取得しています。
+音楽教育についてマスキンガム大学、ケント・ステート大学とペンシルバニア大学で学位を取得しました。
+14年の間、オハイオ公立学校で器楽曲を教え、パルマ、ストウとカントンの一般バンドで指揮をしていました。
+1966年にクラリオン大学で木管のスペシャリストとして、音楽教育、作曲、指揮、オーケストレーションとジャズ教育の職に着きました。
+大学でジャズバンド研究室を設立し、ペンシルバニア州で何十回もツアーを行いペンシルバニア州の学校、大学や地域コミュニティで演奏しました。
+
+.. Throughout his professional years and to this day, Dr. Mitchell has arranged and composed music for bands, orchestras, string orchestras, jazz ensembles and SATB chorus.
+   Most of his some fifty published works were commissioned by schools, colleges and community ensembles.
    His music is published in five houses in America and an international publisher in Tokyo.
+
+今日まで、ミッチェル博士は吹奏楽、管弦楽、弦楽オーケストラ、ジャズアンサンブルとコーラスのための編曲と作曲を行いました。
+約50の作品は、学校、大学と一般の楽団に委嘱されて作編曲されました。
+彼の作品はアメリカと東京の5つの国際出版社で出版されています。
 
 .. Program Notes
 
