@@ -43,9 +43,19 @@
 ----
  `本人のサイトより <http://www.digitaldrawers.com/rexmitchell/Song%20of%20the%20Prairie.htm>`_
 
-.. note::
+.. .. note::
 
-   One of my best, inspired by my trips to America's heartland.  Suggestive of prairie scenes, romantic, wild, exciting, and rhythmic!  This one plays by itself -- a great seller here and abroad.  Nice playable melodies and countermelodies.  Fun to conduct and play.
+   One of my best, inspired by my trips to America's heartland.
+   Suggestive of prairie scenes, romantic, wild, exciting, and rhythmic!
+   This one plays by itself -- a great seller here and abroad.
+   Nice playable melodies and countermelodies. Fun to conduct and play.
+
+.. note;;
+
+   私の代表作の一つで、アメリカの中央部への旅行に影響を受けて作曲しました。
+   ロマン、荒々しさ、刺激的でそしてリズミカルといった草原(プレーリー)の情景を示唆しています!
+   この作品はアメリカと国外で非常によく演奏されています。
+   素晴らしい旋律と対旋律の演奏ができます。指揮と演奏を楽しんでください。
 
 .. About the Composer
 
