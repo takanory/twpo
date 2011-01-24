@@ -24,7 +24,7 @@
 - 43 **brillant**: 輝かしい
 - 60 **Maestoso drammatico**: 壮大で劇的な
 - 66 W.W. **shrill**: 甲高い
-- 67 Tp **altri**: その他?
+- 67 Tp **altri**: 他の人(ソロ以外)
 
 2.Aria
 ------
@@ -86,33 +86,33 @@
 
 戦没者への賛歌
 ==============
-- 1 **Reverently**:
-- 7 **semple legatissimo**:
-- 7, 78 **niente**:
-- 28 **Move a little(poco rubato)**:
-- 32 **(sneak breath)**:
-- 38 **More expansively**:
-- 62 **Broadly and expansively**:
-- 62 **broad legato tongue**:
-- 79 **Poco rubato**:
-- 83 **Tempo I Reverently**:
+- 1 **Reverently**: 謹んで
+- 7 **sempre legatissimo**: 常に非常になめらかに
+- 7, 78 **niente**: 聞こえないほど小さな音で
+- 28 **Move a little(poco rubato)**: 少しテンポをゆらして
+- 32 **(sneak breath)**: こっそりとブレスする
+- 38 **More expansively**: より広大に
+- 62 **Broadly and expansively**: 幅広く、広大に
+- 62 **broad legato tongue**: 幅広い滑らかなタンギングで
+- 79 **Poco rubato**: 少しテンポをゆらして
+- 83 **Tempo I Reverently**: 最初のテンポで、謹んで
 
 ペルセウス
 ==========
-- 1 **Elegiaco**:
-- 3 **Band members sing "Ah".(Female voices are preferable.)**:
+- 1, 71 **Elegiaco**: 悲しそうに
+- 3 **Band members sing "Ah".(Female voices are preferable.)**: バンドメンバーが「アー」と歌う(女性の声が望ましい)
 - 5 **Put the cymbal on the timpani and roll the cymbal with the mallets.(Play freely with regard to the dynamics and the usage of timpani pedal)**:
-- 6 **Rub with a Doubel Bass bow**:
-- 19 **Grandioso a tempo**:
-- 29 **Lamentoso**:
-- 35 **Animato**:
-- 53 **Serioso**:
-- 61 **Feroce**:
-- 71 **Elegiaco**:
-- 76 **Feroce**:
-- 84 **Misterioso**:
-- 99 **Energiaco**:
-- 108 **Grandioso**:
-- 124 **Cantabile**:
-- 138 **Espressivo a tempo**:
-- 154 **Brillante a tempo**:
+    ティンパニの上に置いたシンバルを、マレットでロールする
+    (ダイナミクスとティンパニペダルを自由に使用する)
+- 6 **Rub with a Doubel Bass bow**: コントラバスの弓でこする
+- 19 **Grandioso a tempo**: 元の速さで壮大に
+- 29 **Lamentoso**: 悲しそうな、哀れな
+- 35 **Animato**: 生き生きと
+- 53 **Serioso**: 厳粛な
+- 61, 76 **Feroce**: 荒々しい
+- 84 **Misterioso**: 神秘的な
+- 99 **Energico**: 力強く
+- 108 **Grandioso**: 壮大に
+- 124 **Cantabile**: 歌うように、表情豊かに
+- 138 **Espressivo a tempo**: 元の速さで表情豊かに
+- 154 **Brillante a tempo**: 元の速さで華やかに、輝かしく
