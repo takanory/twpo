@@ -12,11 +12,5 @@
    :maxdepth: 2
 
    201104regular/index
-
-.. Indices and tables
-   ==================
-
-   * :ref:`genindex`
-   * :ref:`modindex`
-   * :ref:`search`
+   music-grammer/index
 
