@@ -70,8 +70,6 @@ i の音を「主音」、iv の音を「下属音」、vの音を「属音」�
 
 .. image:: http://xn--i6q789c.com/gakuten/img/a-moll_senritsutekitanonkai.gif
 
-.. image:: http://xn--i6q789c.com/gakuten/img/a-moll_senritsutekitanonkai.gif
-
 調合
 ====
 「シャープ系」は最後に♯をつけた音が「シ」になる。
@@ -99,7 +97,7 @@ i の音を「主音」、iv の音を「下属音」、vの音を「属音」�
 「同主調」は主音が同じで長調←→短調の関係の調。
 ハ長調(C-dur)の同主調はハ短調(c-moll)。
 
-「平行調」は調合が同じで長調←→短調の関係の調。
+「平行調」は調号が同じで長調←→短調の関係の調。
 ハ長調(C-dur)の平行調はイ短調(a-moll)。
 
 五度圏
